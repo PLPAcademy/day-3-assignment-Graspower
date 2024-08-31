@@ -13,14 +13,14 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
-
+answer is b
 2. Which command verifies the Dart installation on macOS?
 
 A) dart --install
 B) dart --check
 C) dart --verify
 D) dart --version
-
+answer is D
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
@@ -29,7 +29,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
-
+answer is B
 4. What command is used to run a newly created Flutter app?
 
 A) flutter start
@@ -37,7 +37,7 @@ B) flutter build
 C) flutter run
 D) flutter init
 
-
+answer is C
 #Python Installation
 
 What is the first step to install Python on a Windows system?
